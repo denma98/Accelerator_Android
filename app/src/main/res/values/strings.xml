@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="angle_1">Angle 1:</string>
+    <string name="angle_2">Angle 2:</string>
+    <string name="angle_3">Angle 3:</string>
+    <string name="show_graphs">Show Graphs</string>
+</resources>
